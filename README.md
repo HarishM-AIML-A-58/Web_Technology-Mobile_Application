@@ -43,7 +43,7 @@ This project is licensed under the [MIT License](LICENSE). See the `LICENSE` fil
 
 ## 🙏 Acknowledgements
 
-* [Your Institution Name/Department Name] for providing the lab facilities and guidance.
+* Rajalakshmi Engineering College (Artificial Intelligence and Machine Learning) for providing the lab facilities and guidance.
 * [Mention any specific instructors or mentors if applicable].
 
 ## 🤝 Contributing
@@ -52,7 +52,7 @@ Contributions to this repository are welcome! If you have any improvements or su
 
 ## 📧 Contact
 
-For any queries or further information, please contact [Your Email Address or Contact Information].
+For any queries or further information, please contact 231501058@rajalakshmi.edu.in.
 
 ---
 
